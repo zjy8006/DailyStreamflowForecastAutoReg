@@ -81,6 +81,9 @@ This study relied heavily on open-source software. Pandas (McKinney, 2010) and n
 
 * Please cite the authors of open-source software, such as EEMD, VMD, Pandas, Matplotlib, Numpy, Scikit-learn, TensorFlow, .etc, if you used them.
 * Please cite us if you use this repository for further research.
+```
+Cite all versions? You can cite all versions by using the DOI 10.5281/zenodo.3595150 (Add to Citavi project by DOI). This DOI represents all versions, and will always resolve to the latest one.
+```
 
 
 
