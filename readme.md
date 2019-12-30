@@ -1,5 +1,10 @@
 # Code repository for "Decomposition ensemble model based on variational mode decomposition and long short-term memory for streamflow forecasting"
 
+## Jianyi Zuo 
+E-mail:zuojianyi@outlook.com 
+Github:https://github.com/zjy8006
+
+
 
 This study relied heavily on open-source software. Pandas (McKinney, 2010) and numpy (Stéfan et al., 2011) were used to manage and process streamflow data. Matlab was used to perform the streamflow decomposition tasks and compute the PACF of subsignals. The Matlab implementations of [VMD](https://ieeexplore.ieee.org/document/6655981) and [EEMD](https://doi.org/10.1142/S1793536909000047) come from Dragomiretskiy and Zosso (2014) and Wu and Huang (2009), respectively. The [DWT](https://www.mathworks.com/help/wavelet/ref/dwt.html) was performed based on the Matlab build-in toolbox (“Wavelet 1-D” in “Wavelet Analyzer”). The GBRT model in [scikit-optimize](https://scikit-optimize.github.io/) (Pedregosa et al., 2011) was used to measure the importance of the decomposed subsignals. Matplotlib (Hunter, 2007) was used to draw figures, and [TensorFlow](https://tensorflow.google.cn/) (Abadi et al., 2016) was used to train the LSTM models. These open-source software also were partly used by previous researchers, e.g., Kratzert et al. (2018).
 
