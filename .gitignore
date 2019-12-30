@@ -1,0 +1,27 @@
+# my configuration
+.vscode
+
+# optimal results, data, graphs
+graph
+graphs
+submission
+techflow_plot
+results
+data
+lstm-models-history
+
+# matlab
+*.asv
+*.fig
+
+
+# python
+tempCodeRunnerFile.py
+__pycache__
+test.py
+3dplot_demo.py
+**/*(deprecated).py
+ssa.py
+boundary_effect_eva.py
+feature_selection.py
+!tools/feature_selection.py
