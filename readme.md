@@ -74,6 +74,9 @@ This study relied heavily on open-source software. Pandas (McKinney, 2010) and n
 
 ## Cite us
 
+* Please cite the authors of open-source software, such as EEMD, VMD, Pandas, Matplotlib, Numpy, Scikit-learn, TensorFlow, .etc, if you used them.
+* Please cite us if you use this repository for further research.
+
 
 
 ## Reference
